@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/math-euler/static/css/main.122f48ac.css",
+    "main.js": "/math-euler/static/js/main.d3e76bcc.js",
+    "index.html": "/math-euler/index.html",
+    "main.122f48ac.css.map": "/math-euler/static/css/main.122f48ac.css.map",
+    "main.d3e76bcc.js.map": "/math-euler/static/js/main.d3e76bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.122f48ac.css",
+    "static/js/main.d3e76bcc.js"
+  ]
+}
