@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #EDEEF0;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+.container {
+    max-width: 595px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 595px) {
+    .container {
+        padding: 0 20px;
+    }
+}
